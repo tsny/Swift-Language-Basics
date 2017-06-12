@@ -19,6 +19,7 @@ var distance = 129.763001
 var lost = true
 var expensive = true
 var choice = 3
+//let integral: Character = "⧵u{222B}" doesn't compile(?)
 let integral: Character = "∫"
 let greeting = "Hello"
 var name = "Karen"
